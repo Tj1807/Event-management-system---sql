@@ -3,6 +3,9 @@
 ## Overview
 ### This repository contains a complete Event Management Database built in MySQL as part of a data analytics/SQL capstone project. The solution demonstrates database normalization, ETL processes, advanced SQL queries, window functions, CTEs, and data quality analysis on event attendance data.
 
+## Note:
+### As the dataset contains more than 10k rows, you need jupyter notebook to establish the link between the workbench and the dataset to import the dataset in the form of chunks in jupyter notebook.
+
 ## Key Skills Demonstrated:
 ### 1NF-3NF normalization (staging → normalized tables)
 ### Deduplication & data quality checks
